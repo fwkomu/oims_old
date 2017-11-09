@@ -14,7 +14,7 @@
 		<title>OIMS <?php if ($layout_context == "admin") { echo "Admin"; } ?></title>
 		<link href="stylesheets/public.css" media="all" rel="stylesheet" type="text/css" />
 		<link href="air-datepicker/css/datepicker.min.css" rel="stylesheet" type="text/css" />
-		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
 	<div>
